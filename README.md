@@ -16,8 +16,8 @@ Now write the Algorithm and push using these steps.
 
 Now enter the user-id and password
 
-Then come to the repo again and on the left side where the files section starte you will see the "PULL REQUEST" option. 
-Click on it and the click on create pull request green color button.
+Then come back to the repo again and on the left side where the files section start you will see the "PULL REQUEST" option. 
+Click on it and then click on create pull request green color button.
 
 And you made it.
 
