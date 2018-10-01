@@ -94,7 +94,7 @@ Now submit the pull request.
 
 Soon I'll be merging your pull request.
 
-For any query you can ask here.
+# For any query you can ask here.
 - [CodeDocs](https://codedocs.slack.com)
 
 
