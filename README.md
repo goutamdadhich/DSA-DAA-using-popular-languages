@@ -14,6 +14,11 @@ Now write the Algorithm and push using these steps.
 2. git commit -m "Few words about the file"
 3. git push
 
-Now enter the userid and password
+Now enter the user-id and password
+
+Then come to the repo again and on the left side where the files section starte you will see the "PULL REQUEST" option. 
+Click on it and the click on create pull request green color button.
+
+And you made it.
 
 
